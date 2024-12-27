@@ -1,2 +1,0 @@
-<h1>  PROJECT-1 [A TIC - TAC - TOE GAME] </h1>
-<p>  A simple tic-tac-toe game for two users which takes input from the users in the form of numbers and alternates between the X and O inputs. In the end it declares if a player has won the game and gives an option to continue or end the game. This project is the first Milestone Project of a Python course I'm taking</p> 
